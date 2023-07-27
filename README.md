@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LucioValdes_
+- 👀 I’m interested in work
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me: luciovaldes96@gmail.com
